@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'MoneyCraft',
-    packages = ['BackTest'],
+    packages = ['moneycraft'],
     scripts = [],
     version = '1.0',
     description = 'A python quant platform for financial use.',
