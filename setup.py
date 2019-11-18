@@ -4,7 +4,7 @@ setup(
     name = 'MoneyCraft',
     packages = ['moneycraft'],
     scripts = [],
-    version = '1.0.1',
+    version = '1.0.2',
     description = 'A python quant platform for financial use.',
     author = 'austin362667',
     author_email = 'austin362667@gmail.com',
