@@ -20,4 +20,4 @@ def RandomWalk(code):
     
 
 if __name__ == '__main__':
-    RandomWalk()  
+    RandomWalk(code)  
