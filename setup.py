@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name = 'MonyCraft',
+    name = 'MoneyCraft',
     packages = ['BackTest'],
     scripts = [],
     version = '1.0',

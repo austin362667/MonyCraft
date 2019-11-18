@@ -18,3 +18,6 @@ def RandomWalk(code):
     return return_daily
     
     
+
+if __name__ == '__main__':
+    RandomWalk()  
