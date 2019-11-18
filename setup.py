@@ -11,5 +11,5 @@ setup(
     url = 'https://github.com/austin362667/MonyCraft',
     download_url = 'https://github.com/austin362667/MonyCraft.git',
     keywords = ['finance', 'backtest', 'quant'],
-    classifiers = [Development Status :: 1 - Planning]
+    classifiers = []
 )
